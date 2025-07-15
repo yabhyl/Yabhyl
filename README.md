@@ -1,22 +1,22 @@
 # 👨🏻‍💻 Nolan Cerrud
 
-**`Desarrollador Web`**
+**`Estudiante de Ciberseguridad`**
 
 ¡Hola! Soy Nolan Cerrud. Me apasiona la tecnología y el desarrollo web. Actualmente manejo principalmente **Python**, **HTML**, **CSS** y **PHP**. Siempre estoy aprendiendo y buscando nuevos retos para mejorar mis habilidades.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/nolcan-cerrud">
+    <a href="https://www.linkedin.com/in/nolan-cerrud">
         <img 
             alt="LinkedIn"
             title="Sígueme en LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-nolcan%20cerrud-blue?style=for-the-badge&logo=linkedin"
+            src="https://img.shields.io/badge/LinkedIn-nolan%20cerrud-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
-    <a href="https://instagram.com/nolan.cerrud">
+    <a href="https://instagram.com/nolan_0225">
         <img 
             alt="Instagram"
             title="Sígueme en Instagram"
-            src="https://img.shields.io/badge/Instagram-nolan%20cerrud-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-nolan%_0225-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
