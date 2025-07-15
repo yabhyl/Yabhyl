@@ -16,7 +16,7 @@
         <img 
             alt="Instagram"
             title="Sígueme en Instagram"
-            src="https://img.shields.io/badge/Instagram-nolan%_0225-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-nolan%20cerrud-E4405F?style=for-the-badge&logo=instagram&logoColor=whit"
         />
     </a>
 </p>
