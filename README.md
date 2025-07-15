@@ -78,7 +78,7 @@
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&custom_title=Lenguajes&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabhyl&theme=tokyonight&layout=compact&custom_title=Lenguajes&langs_count=5" 
   />
 </p>
 
