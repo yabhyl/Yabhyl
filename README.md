@@ -71,7 +71,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
+    src="https://github-readme-stats.vercel.app/api?username=yabhyl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
   />
 
   <img 
